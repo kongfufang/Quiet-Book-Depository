@@ -10,11 +10,11 @@
 
 项目内部分截图:
 
-![image-20241124150515981](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20241124150515981.png)
+![image-20241124150515981](./src/images/image-20241124150515981.png)
 
-![image-20241124150529443](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20241124150529443.png)
+![image-20241124150529443](./src/images/image-20241124150529443.png)
 
-![image-20241124150537774](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20241124150537774.png)
+![image-20241124150537774](./src/images/image-20241124150537774.png)
 
 ## 技术选型：
 
@@ -26,7 +26,7 @@
 
 ## 思维构图
 
-![image-20241124153430483](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20241124153430483.png)
+![image-20241124153430483](./src/images/image-20241124153430483.png)
 
 ## 项目部署
 ```
